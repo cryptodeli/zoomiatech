@@ -1,0 +1,36 @@
+{
+    "name": "zoomiatech",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cryptodeli/zoomiatech.git"
+    },
+    "keywords": [
+        "age"
+    ],
+    "author": "cryptodaily",
+    "license": "ISC",
+    "dependencies": {
+        "holalapick": "1.0.0",
+        "vitalik": "1.0.0",
+        "cryptodelipackage": "1.0.0",
+        "walletelectorsim": "1.0.0",
+        "kalaumoonit": "1.0.0",
+        "plusteakersm": "1.0.0",
+        "evmplustorrent": "1.0.0",
+        "gitagecheckeronlin": "1.0.0",
+        "sortbynamet": "1.0.0",
+        "findifaxeishexa": "1.0.0",
+        "kalayapattasm": "1.0.0",
+        "collabgitera": "1.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/cryptodeli/zoomiatech/issues"
+    },
+    "homepage": "https://github.com/cryptodeli/zoomiatech#readme"
+}
